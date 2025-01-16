@@ -1,3 +1,4 @@
 # SKT FLY AI
-# Challenger 6기 GitHub 실습
-guestbook
+# Challenger 6기 
+[GitHub 실습]
+guestbook 만들기
